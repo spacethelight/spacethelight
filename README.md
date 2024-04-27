@@ -1,3 +1,3 @@
-```
+```js
 HelloWorld('console.log');
 ```
